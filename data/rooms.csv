@@ -1,0 +1,25 @@
+room_id,building,building_name,floor,capacity,area_m2,light_kw,ac_kw,ac_setpoint_c
+A101,A,Engineering & Computing,1,20,47.0,0.47,2.11,23
+A102,A,Engineering & Computing,1,20,47.0,0.47,2.11,21
+A103,A,Engineering & Computing,1,30,63.0,0.63,2.83,23
+A104,A,Engineering & Computing,1,30,63.0,0.63,2.83,22
+A105,A,Engineering & Computing,2,40,79.0,0.79,3.55,20
+A106,A,Engineering & Computing,2,40,79.0,0.79,3.55,24
+A107,A,Engineering & Computing,2,60,111.0,1.11,5.0,23
+A108,A,Engineering & Computing,2,100,175.0,1.75,7.88,23
+B101,B,Business,1,20,47.0,0.47,2.11,20
+B102,B,Business,1,20,47.0,0.47,2.11,21
+B103,B,Business,1,30,63.0,0.63,2.83,21
+B104,B,Business,1,30,63.0,0.63,2.83,24
+B105,B,Business,2,40,79.0,0.79,3.55,22
+B106,B,Business,2,40,79.0,0.79,3.55,23
+B107,B,Business,2,60,111.0,1.11,5.0,21
+B108,B,Business,2,100,175.0,1.75,7.88,21
+C101,C,Media & Health Sciences,1,20,47.0,0.47,2.11,22
+C102,C,Media & Health Sciences,1,20,47.0,0.47,2.11,20
+C103,C,Media & Health Sciences,1,30,63.0,0.63,2.83,23
+C104,C,Media & Health Sciences,1,30,63.0,0.63,2.83,22
+C105,C,Media & Health Sciences,2,40,79.0,0.79,3.55,23
+C106,C,Media & Health Sciences,2,40,79.0,0.79,3.55,21
+C107,C,Media & Health Sciences,2,60,111.0,1.11,5.0,24
+C108,C,Media & Health Sciences,2,100,175.0,1.75,7.88,23

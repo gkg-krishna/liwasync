@@ -1,0 +1,923 @@
+week,day,hour,room_id,vote,comment
+6,Mon,16,A101,Too warm,
+6,Tue,12,A101,Comfortable,
+6,Tue,13,A101,Too cold,Too cold to focus
+6,Tue,13,A101,Too cold,Need a jacket in here
+6,Tue,13,A101,Too warm,Back of the room is warm
+6,Tue,14,A101,Comfortable,
+6,Wed,8,A101,Too cold,Need a jacket in here
+6,Wed,8,A101,Comfortable,
+6,Wed,16,A101,Too cold,AC is blasting directly on the front rows
+6,Thu,9,A101,Comfortable,
+6,Thu,9,A101,Comfortable,
+6,Thu,13,A101,Comfortable,
+6,Thu,14,A101,Comfortable,
+6,Thu,16,A101,Too warm,
+6,Fri,9,A101,Too warm,
+6,Fri,9,A101,Too cold,
+6,Fri,9,A101,Comfortable,
+6,Fri,9,A101,Too cold,Need a jacket in here
+6,Fri,13,A101,Too warm,Back of the room is warm
+6,Fri,15,A101,Comfortable,Fine today
+6,Fri,15,A101,Comfortable,Fine today
+6,Fri,17,A101,Comfortable,
+6,Mon,8,A102,Too cold,AC is blasting directly on the front rows
+6,Mon,17,A102,Comfortable,
+6,Tue,16,A102,Too cold,AC is blasting directly on the front rows
+6,Tue,16,A102,Too cold,AC is blasting directly on the front rows
+6,Tue,17,A102,Too cold,
+6,Tue,17,A102,Comfortable,
+6,Wed,14,A102,Too warm,Stuffy after 30 min
+6,Wed,14,A102,Comfortable,
+6,Wed,14,A102,Comfortable,
+6,Thu,9,A102,Comfortable,Fine today
+6,Thu,13,A102,Too cold,
+6,Thu,13,A102,Too warm,Stuffy after 30 min
+6,Thu,15,A102,Too cold,Need a jacket in here
+6,Thu,16,A102,Too cold,Need a jacket in here
+6,Thu,16,A102,Too cold,Too cold to focus
+6,Fri,13,A102,Comfortable,
+6,Mon,8,A103,Comfortable,
+6,Mon,8,A103,Too cold,
+6,Mon,10,A103,Comfortable,
+6,Mon,10,A103,Too warm,
+6,Mon,11,A103,Comfortable,
+6,Mon,11,A103,Comfortable,
+6,Mon,11,A103,Too warm,
+6,Mon,12,A103,Comfortable,
+6,Mon,16,A103,Comfortable,Fine today
+6,Mon,16,A103,Too warm,
+6,Mon,16,A103,Too cold,AC is blasting directly on the front rows
+6,Tue,9,A103,Too warm,Stuffy after 30 min
+6,Tue,9,A103,Too warm,Back of the room is warm
+6,Tue,9,A103,Too warm,Stuffy after 30 min
+6,Tue,10,A103,Too cold,AC is blasting directly on the front rows
+6,Tue,11,A103,Comfortable,
+6,Tue,11,A103,Comfortable,
+6,Tue,11,A103,Too warm,
+6,Tue,12,A103,Comfortable,
+6,Tue,14,A103,Too warm,
+6,Tue,17,A103,Comfortable,Fine today
+6,Tue,17,A103,Comfortable,
+6,Wed,8,A103,Too warm,
+6,Wed,10,A103,Too warm,Stuffy after 30 min
+6,Wed,10,A103,Comfortable,Fine today
+6,Wed,10,A103,Too warm,Back of the room is warm
+6,Wed,11,A103,Comfortable,
+6,Wed,11,A103,Comfortable,
+6,Thu,8,A103,Too warm,Back of the room is warm
+6,Thu,12,A103,Too warm,Stuffy after 30 min
+6,Thu,12,A103,Comfortable,
+6,Thu,13,A103,Comfortable,Fine today
+6,Thu,16,A103,Comfortable,
+6,Fri,8,A103,Comfortable,
+6,Fri,8,A103,Comfortable,
+6,Fri,10,A103,Comfortable,
+6,Fri,10,A103,Too cold,Too cold to focus
+6,Fri,12,A103,Too warm,Stuffy after 30 min
+6,Fri,12,A103,Comfortable,
+6,Fri,12,A103,Too warm,
+6,Fri,12,A103,Comfortable,Fine today
+6,Fri,13,A103,Too cold,Too cold to focus
+6,Mon,9,A104,Too warm,Stuffy after 30 min
+6,Mon,12,A104,Too cold,AC is blasting directly on the front rows
+6,Tue,11,A104,Too cold,Need a jacket in here
+6,Tue,13,A104,Comfortable,
+6,Tue,17,A104,Comfortable,
+6,Wed,9,A104,Comfortable,
+6,Wed,9,A104,Comfortable,Fine today
+6,Thu,9,A104,Comfortable,
+6,Thu,9,A104,Comfortable,
+6,Thu,10,A104,Too warm,Back of the room is warm
+6,Thu,11,A104,Comfortable,
+6,Thu,11,A104,Comfortable,
+6,Thu,15,A104,Too cold,Need a jacket in here
+6,Thu,15,A104,Comfortable,Fine today
+6,Fri,14,A104,Too cold,AC is blasting directly on the front rows
+6,Fri,16,A104,Too cold,AC is blasting directly on the front rows
+6,Fri,16,A104,Comfortable,Fine today
+6,Mon,10,A105,Comfortable,Fine today
+6,Mon,10,A105,Comfortable,Fine today
+6,Mon,10,A105,Too cold,
+6,Mon,15,A105,Too cold,
+6,Mon,15,A105,Too cold,AC is blasting directly on the front rows
+6,Mon,17,A105,Comfortable,
+6,Tue,11,A105,Too cold,Need a jacket in here
+6,Tue,12,A105,Comfortable,Fine today
+6,Tue,12,A105,Too cold,
+6,Thu,11,A105,Comfortable,Fine today
+6,Thu,11,A105,Too cold,Need a jacket in here
+6,Thu,12,A105,Too cold,AC is blasting directly on the front rows
+6,Thu,12,A105,Too cold,AC is blasting directly on the front rows
+6,Thu,13,A105,Too cold,Too cold to focus
+6,Thu,15,A105,Too cold,
+6,Thu,15,A105,Too cold,
+6,Thu,16,A105,Comfortable,
+6,Thu,17,A105,Too cold,Too cold to focus
+6,Fri,9,A105,Too cold,Need a jacket in here
+6,Fri,9,A105,Too cold,Too cold to focus
+6,Fri,9,A105,Comfortable,Fine today
+6,Fri,9,A105,Comfortable,
+6,Fri,12,A105,Too cold,Need a jacket in here
+6,Fri,12,A105,Comfortable,
+6,Mon,14,A106,Too warm,Stuffy after 30 min
+6,Mon,14,A106,Too warm,Stuffy after 30 min
+6,Mon,14,A106,Too warm,Stuffy after 30 min
+6,Mon,15,A106,Too warm,
+6,Mon,15,A106,Comfortable,Fine today
+6,Mon,17,A106,Too warm,Stuffy after 30 min
+6,Mon,17,A106,Too warm,Back of the room is warm
+6,Tue,8,A106,Comfortable,
+6,Tue,10,A106,Too warm,
+6,Tue,11,A106,Too warm,Back of the room is warm
+6,Tue,12,A106,Comfortable,
+6,Tue,12,A106,Too warm,Back of the room is warm
+6,Tue,12,A106,Too cold,
+6,Tue,12,A106,Too warm,Back of the room is warm
+6,Tue,13,A106,Too warm,Back of the room is warm
+6,Tue,13,A106,Too warm,Stuffy after 30 min
+6,Tue,13,A106,Too warm,Stuffy after 30 min
+6,Tue,15,A106,Comfortable,Fine today
+6,Tue,15,A106,Comfortable,
+6,Wed,10,A106,Comfortable,
+6,Wed,10,A106,Too warm,Back of the room is warm
+6,Wed,10,A106,Comfortable,
+6,Wed,12,A106,Too warm,Stuffy after 30 min
+6,Wed,12,A106,Comfortable,Fine today
+6,Wed,12,A106,Comfortable,
+6,Wed,12,A106,Too warm,Stuffy after 30 min
+6,Wed,13,A106,Too warm,Back of the room is warm
+6,Wed,13,A106,Comfortable,
+6,Thu,10,A106,Comfortable,Fine today
+6,Thu,12,A106,Too warm,Back of the room is warm
+6,Thu,12,A106,Too warm,Stuffy after 30 min
+6,Thu,12,A106,Too warm,Stuffy after 30 min
+6,Thu,12,A106,Too warm,Stuffy after 30 min
+6,Thu,15,A106,Too cold,
+6,Thu,15,A106,Too warm,Stuffy after 30 min
+6,Thu,15,A106,Too warm,Back of the room is warm
+6,Fri,11,A106,Too warm,Stuffy after 30 min
+6,Fri,17,A106,Too warm,Back of the room is warm
+6,Fri,17,A106,Too warm,Stuffy after 30 min
+6,Mon,8,A107,Comfortable,
+6,Mon,10,A107,Comfortable,
+6,Mon,10,A107,Comfortable,
+6,Mon,10,A107,Too warm,
+6,Mon,10,A107,Comfortable,
+6,Mon,11,A107,Too warm,
+6,Mon,11,A107,Too cold,AC is blasting directly on the front rows
+6,Mon,11,A107,Too warm,Back of the room is warm
+6,Mon,13,A107,Too warm,Back of the room is warm
+6,Mon,13,A107,Too cold,
+6,Mon,13,A107,Too warm,Stuffy after 30 min
+6,Mon,14,A107,Too cold,Need a jacket in here
+6,Mon,14,A107,Comfortable,Fine today
+6,Mon,16,A107,Comfortable,Fine today
+6,Mon,16,A107,Comfortable,
+6,Tue,8,A107,Too warm,
+6,Tue,8,A107,Comfortable,
+6,Tue,8,A107,Too warm,Stuffy after 30 min
+6,Tue,8,A107,Too cold,Need a jacket in here
+6,Tue,8,A107,Too warm,
+6,Tue,8,A107,Comfortable,
+6,Tue,10,A107,Comfortable,
+6,Tue,10,A107,Comfortable,
+6,Tue,11,A107,Comfortable,Fine today
+6,Tue,14,A107,Too cold,
+6,Tue,14,A107,Comfortable,
+6,Tue,14,A107,Comfortable,Fine today
+6,Wed,8,A107,Comfortable,
+6,Wed,9,A107,Comfortable,
+6,Wed,9,A107,Comfortable,Fine today
+6,Wed,10,A107,Comfortable,
+6,Wed,10,A107,Too warm,Stuffy after 30 min
+6,Wed,13,A107,Comfortable,Fine today
+6,Wed,13,A107,Comfortable,
+6,Wed,14,A107,Too warm,
+6,Wed,14,A107,Comfortable,
+6,Wed,15,A107,Too cold,Need a jacket in here
+6,Wed,15,A107,Comfortable,
+6,Wed,15,A107,Too warm,
+6,Wed,16,A107,Too warm,Stuffy after 30 min
+6,Wed,16,A107,Comfortable,
+6,Wed,17,A107,Comfortable,
+6,Wed,17,A107,Too cold,
+6,Wed,17,A107,Too warm,
+6,Thu,8,A107,Comfortable,
+6,Thu,8,A107,Comfortable,
+6,Thu,8,A107,Comfortable,
+6,Thu,8,A107,Comfortable,Fine today
+6,Thu,9,A107,Comfortable,
+6,Thu,9,A107,Too warm,Stuffy after 30 min
+6,Thu,9,A107,Comfortable,Fine today
+6,Thu,9,A107,Comfortable,
+6,Thu,11,A107,Comfortable,
+6,Thu,15,A107,Too cold,Too cold to focus
+6,Fri,8,A107,Too cold,Too cold to focus
+6,Fri,8,A107,Comfortable,
+6,Fri,9,A107,Comfortable,
+6,Fri,13,A107,Too warm,Stuffy after 30 min
+6,Fri,16,A107,Too warm,Back of the room is warm
+6,Fri,16,A107,Comfortable,
+6,Mon,9,A108,Comfortable,
+6,Mon,9,A108,Too cold,Too cold to focus
+6,Mon,9,A108,Comfortable,
+6,Mon,10,A108,Comfortable,
+6,Mon,11,A108,Comfortable,
+6,Mon,11,A108,Comfortable,
+6,Mon,11,A108,Comfortable,
+6,Mon,11,A108,Too warm,
+6,Mon,12,A108,Too warm,Stuffy after 30 min
+6,Mon,12,A108,Comfortable,Fine today
+6,Mon,12,A108,Too warm,Stuffy after 30 min
+6,Mon,12,A108,Too warm,Stuffy after 30 min
+6,Mon,13,A108,Too warm,Back of the room is warm
+6,Mon,13,A108,Comfortable,
+6,Mon,14,A108,Too warm,
+6,Mon,14,A108,Too warm,
+6,Mon,14,A108,Too cold,Too cold to focus
+6,Mon,14,A108,Comfortable,
+6,Mon,14,A108,Too cold,
+6,Mon,15,A108,Too warm,
+6,Mon,15,A108,Too warm,Stuffy after 30 min
+6,Mon,15,A108,Comfortable,
+6,Mon,15,A108,Comfortable,
+6,Mon,16,A108,Comfortable,
+6,Mon,17,A108,Comfortable,
+6,Mon,17,A108,Comfortable,
+6,Mon,17,A108,Too cold,Too cold to focus
+6,Tue,8,A108,Too warm,Back of the room is warm
+6,Tue,8,A108,Too warm,
+6,Tue,8,A108,Too cold,AC is blasting directly on the front rows
+6,Tue,9,A108,Too warm,Stuffy after 30 min
+6,Tue,9,A108,Comfortable,Fine today
+6,Tue,9,A108,Too warm,
+6,Tue,9,A108,Comfortable,
+6,Tue,9,A108,Comfortable,Fine today
+6,Tue,10,A108,Comfortable,Fine today
+6,Tue,11,A108,Comfortable,
+6,Tue,11,A108,Comfortable,
+6,Tue,12,A108,Too warm,Stuffy after 30 min
+6,Tue,12,A108,Too warm,Stuffy after 30 min
+6,Tue,12,A108,Comfortable,
+6,Tue,12,A108,Too warm,Back of the room is warm
+6,Tue,13,A108,Comfortable,
+6,Tue,13,A108,Comfortable,Fine today
+6,Tue,13,A108,Too warm,Back of the room is warm
+6,Tue,13,A108,Comfortable,Fine today
+6,Tue,14,A108,Too cold,Need a jacket in here
+6,Tue,14,A108,Comfortable,
+6,Tue,15,A108,Comfortable,
+6,Tue,16,A108,Comfortable,
+6,Tue,17,A108,Too cold,AC is blasting directly on the front rows
+6,Tue,17,A108,Too cold,AC is blasting directly on the front rows
+6,Tue,17,A108,Comfortable,Fine today
+6,Tue,17,A108,Too cold,
+6,Tue,17,A108,Comfortable,
+6,Wed,8,A108,Comfortable,
+6,Wed,8,A108,Comfortable,
+6,Wed,9,A108,Too warm,
+6,Wed,9,A108,Comfortable,Fine today
+6,Wed,9,A108,Comfortable,
+6,Wed,10,A108,Too cold,Too cold to focus
+6,Wed,10,A108,Comfortable,
+6,Wed,10,A108,Too warm,
+6,Wed,10,A108,Comfortable,
+6,Wed,10,A108,Comfortable,Fine today
+6,Wed,11,A108,Too cold,
+6,Wed,12,A108,Comfortable,Fine today
+6,Wed,13,A108,Comfortable,
+6,Wed,14,A108,Comfortable,
+6,Wed,15,A108,Too warm,
+6,Wed,15,A108,Comfortable,
+6,Wed,15,A108,Comfortable,
+6,Wed,16,A108,Comfortable,
+6,Wed,16,A108,Comfortable,Fine today
+6,Wed,16,A108,Too warm,Stuffy after 30 min
+6,Wed,16,A108,Too cold,Too cold to focus
+6,Wed,17,A108,Comfortable,Fine today
+6,Wed,17,A108,Comfortable,
+6,Wed,17,A108,Comfortable,Fine today
+6,Wed,17,A108,Comfortable,
+6,Thu,9,A108,Comfortable,
+6,Thu,9,A108,Comfortable,
+6,Thu,9,A108,Comfortable,
+6,Thu,9,A108,Comfortable,
+6,Thu,9,A108,Comfortable,
+6,Thu,10,A108,Too warm,Stuffy after 30 min
+6,Thu,10,A108,Comfortable,
+6,Thu,11,A108,Too warm,
+6,Thu,11,A108,Comfortable,
+6,Thu,11,A108,Too cold,
+6,Thu,12,A108,Too warm,Back of the room is warm
+6,Thu,12,A108,Too warm,
+6,Thu,12,A108,Comfortable,
+6,Thu,12,A108,Comfortable,
+6,Thu,12,A108,Comfortable,
+6,Thu,13,A108,Comfortable,
+6,Thu,13,A108,Comfortable,
+6,Thu,13,A108,Comfortable,Fine today
+6,Thu,14,A108,Comfortable,
+6,Thu,14,A108,Comfortable,Fine today
+6,Thu,17,A108,Comfortable,Fine today
+6,Thu,17,A108,Too cold,
+6,Thu,17,A108,Comfortable,
+6,Fri,9,A108,Comfortable,
+6,Fri,9,A108,Comfortable,
+6,Fri,9,A108,Too warm,Back of the room is warm
+6,Fri,10,A108,Too warm,Back of the room is warm
+6,Fri,10,A108,Comfortable,Fine today
+6,Fri,11,A108,Too cold,
+6,Fri,11,A108,Comfortable,
+6,Fri,11,A108,Comfortable,
+6,Fri,12,A108,Comfortable,Fine today
+6,Fri,12,A108,Too warm,Stuffy after 30 min
+6,Fri,12,A108,Too cold,Need a jacket in here
+6,Fri,13,A108,Comfortable,
+6,Fri,13,A108,Too cold,Too cold to focus
+6,Fri,14,A108,Comfortable,
+6,Fri,14,A108,Comfortable,
+6,Fri,14,A108,Too warm,Stuffy after 30 min
+6,Fri,15,A108,Comfortable,
+6,Fri,15,A108,Too cold,AC is blasting directly on the front rows
+6,Fri,17,A108,Comfortable,Fine today
+6,Mon,13,B101,Too cold,AC is blasting directly on the front rows
+6,Tue,12,B101,Too cold,
+6,Tue,12,B101,Comfortable,
+6,Tue,12,B101,Too cold,
+6,Tue,12,B101,Too cold,AC is blasting directly on the front rows
+6,Tue,15,B101,Too cold,Too cold to focus
+6,Tue,16,B101,Too cold,
+6,Wed,10,B101,Comfortable,
+6,Wed,10,B101,Too cold,
+6,Wed,13,B101,Too warm,Back of the room is warm
+6,Wed,14,B101,Comfortable,Fine today
+6,Wed,15,B101,Comfortable,
+6,Wed,17,B101,Too cold,Too cold to focus
+6,Thu,13,B101,Too cold,Too cold to focus
+6,Thu,16,B101,Comfortable,
+6,Thu,16,B101,Too cold,Too cold to focus
+6,Thu,16,B101,Too cold,
+6,Fri,11,B101,Comfortable,Fine today
+6,Mon,9,B102,Too cold,AC is blasting directly on the front rows
+6,Mon,10,B102,Too cold,Need a jacket in here
+6,Mon,10,B102,Too cold,
+6,Tue,8,B102,Comfortable,Fine today
+6,Tue,9,B102,Comfortable,
+6,Tue,11,B102,Too cold,
+6,Tue,13,B102,Too warm,
+6,Tue,17,B102,Comfortable,
+6,Wed,10,B102,Comfortable,Fine today
+6,Wed,10,B102,Comfortable,
+6,Wed,10,B102,Comfortable,
+6,Wed,11,B102,Too cold,Need a jacket in here
+6,Wed,12,B102,Too cold,
+6,Wed,12,B102,Too cold,
+6,Wed,13,B102,Too cold,Too cold to focus
+6,Wed,14,B102,Too cold,Too cold to focus
+6,Wed,15,B102,Too cold,AC is blasting directly on the front rows
+6,Thu,8,B102,Too cold,AC is blasting directly on the front rows
+6,Thu,10,B102,Comfortable,Fine today
+6,Thu,10,B102,Too cold,Need a jacket in here
+6,Thu,11,B102,Too cold,
+6,Thu,12,B102,Comfortable,Fine today
+6,Thu,12,B102,Comfortable,Fine today
+6,Fri,14,B102,Too cold,AC is blasting directly on the front rows
+6,Mon,8,B103,Too cold,Too cold to focus
+6,Mon,8,B103,Comfortable,
+6,Mon,9,B103,Comfortable,Fine today
+6,Mon,9,B103,Comfortable,
+6,Mon,10,B103,Too cold,Need a jacket in here
+6,Mon,10,B103,Too cold,Too cold to focus
+6,Mon,13,B103,Comfortable,
+6,Mon,13,B103,Comfortable,
+6,Mon,14,B103,Too cold,
+6,Mon,17,B103,Comfortable,
+6,Tue,17,B103,Too cold,Need a jacket in here
+6,Wed,17,B103,Comfortable,
+6,Thu,14,B103,Too warm,Stuffy after 30 min
+6,Thu,16,B103,Too cold,AC is blasting directly on the front rows
+6,Thu,17,B103,Comfortable,
+6,Thu,17,B103,Too cold,AC is blasting directly on the front rows
+6,Fri,17,B103,Too cold,Too cold to focus
+6,Tue,10,B104,Too warm,Stuffy after 30 min
+6,Tue,11,B104,Too warm,Back of the room is warm
+6,Tue,12,B104,Too warm,Stuffy after 30 min
+6,Tue,12,B104,Comfortable,
+6,Tue,15,B104,Too warm,
+6,Tue,15,B104,Too warm,Stuffy after 30 min
+6,Wed,10,B104,Too warm,Stuffy after 30 min
+6,Wed,10,B104,Too warm,Stuffy after 30 min
+6,Wed,12,B104,Too warm,Stuffy after 30 min
+6,Wed,15,B104,Comfortable,
+6,Wed,15,B104,Comfortable,
+6,Wed,16,B104,Comfortable,Fine today
+6,Wed,16,B104,Too warm,Stuffy after 30 min
+6,Wed,16,B104,Too warm,Stuffy after 30 min
+6,Thu,9,B104,Comfortable,Fine today
+6,Thu,9,B104,Comfortable,
+6,Thu,10,B104,Comfortable,
+6,Thu,10,B104,Too warm,Back of the room is warm
+6,Thu,15,B104,Too warm,
+6,Fri,9,B104,Too warm,Back of the room is warm
+6,Mon,8,B105,Too warm,Stuffy after 30 min
+6,Mon,12,B105,Too cold,
+6,Mon,12,B105,Too cold,Need a jacket in here
+6,Mon,12,B105,Comfortable,Fine today
+6,Mon,12,B105,Comfortable,
+6,Mon,14,B105,Too cold,Too cold to focus
+6,Mon,14,B105,Comfortable,Fine today
+6,Mon,15,B105,Comfortable,Fine today
+6,Mon,15,B105,Comfortable,
+6,Mon,15,B105,Comfortable,
+6,Mon,17,B105,Comfortable,
+6,Mon,17,B105,Comfortable,
+6,Mon,17,B105,Too cold,Too cold to focus
+6,Tue,8,B105,Too cold,
+6,Tue,8,B105,Too cold,
+6,Tue,11,B105,Too cold,Too cold to focus
+6,Tue,11,B105,Too cold,Too cold to focus
+6,Tue,11,B105,Comfortable,
+6,Tue,11,B105,Comfortable,Fine today
+6,Tue,11,B105,Comfortable,Fine today
+6,Tue,11,B105,Comfortable,Fine today
+6,Tue,12,B105,Comfortable,
+6,Tue,13,B105,Comfortable,Fine today
+6,Tue,16,B105,Comfortable,Fine today
+6,Tue,16,B105,Comfortable,
+6,Wed,9,B105,Comfortable,Fine today
+6,Wed,9,B105,Comfortable,
+6,Wed,9,B105,Comfortable,
+6,Wed,11,B105,Comfortable,
+6,Wed,12,B105,Comfortable,
+6,Wed,12,B105,Comfortable,
+6,Wed,12,B105,Comfortable,
+6,Wed,12,B105,Comfortable,Fine today
+6,Thu,10,B105,Too warm,Back of the room is warm
+6,Thu,11,B105,Too cold,AC is blasting directly on the front rows
+6,Thu,11,B105,Comfortable,
+6,Thu,12,B105,Comfortable,
+6,Fri,11,B105,Comfortable,
+6,Fri,11,B105,Comfortable,
+6,Fri,12,B105,Comfortable,Fine today
+6,Fri,12,B105,Comfortable,
+6,Fri,12,B105,Comfortable,Fine today
+6,Mon,13,B106,Comfortable,
+6,Mon,15,B106,Too warm,
+6,Mon,15,B106,Comfortable,
+6,Mon,15,B106,Too warm,Back of the room is warm
+6,Wed,11,B106,Comfortable,Fine today
+6,Wed,11,B106,Too warm,Stuffy after 30 min
+6,Wed,14,B106,Comfortable,
+6,Wed,14,B106,Comfortable,Fine today
+6,Wed,14,B106,Comfortable,
+6,Thu,15,B106,Comfortable,
+6,Thu,15,B106,Too warm,
+6,Fri,11,B106,Comfortable,Fine today
+6,Fri,13,B106,Too cold,
+6,Fri,14,B106,Comfortable,Fine today
+6,Fri,14,B106,Comfortable,
+6,Fri,16,B106,Too cold,Need a jacket in here
+6,Mon,10,B107,Too cold,AC is blasting directly on the front rows
+6,Mon,11,B107,Too cold,Need a jacket in here
+6,Mon,11,B107,Too cold,Need a jacket in here
+6,Mon,11,B107,Comfortable,Fine today
+6,Mon,12,B107,Too cold,Too cold to focus
+6,Mon,12,B107,Too cold,Too cold to focus
+6,Mon,12,B107,Too warm,Back of the room is warm
+6,Mon,12,B107,Too cold,
+6,Mon,15,B107,Comfortable,
+6,Mon,15,B107,Too cold,AC is blasting directly on the front rows
+6,Mon,15,B107,Comfortable,
+6,Mon,15,B107,Too cold,AC is blasting directly on the front rows
+6,Tue,8,B107,Too cold,AC is blasting directly on the front rows
+6,Tue,8,B107,Comfortable,Fine today
+6,Tue,10,B107,Too cold,Need a jacket in here
+6,Tue,13,B107,Too cold,
+6,Tue,13,B107,Too cold,AC is blasting directly on the front rows
+6,Tue,16,B107,Too cold,
+6,Tue,16,B107,Too cold,
+6,Tue,16,B107,Comfortable,
+6,Wed,12,B107,Comfortable,
+6,Wed,12,B107,Comfortable,
+6,Wed,12,B107,Comfortable,Fine today
+6,Wed,12,B107,Too cold,Too cold to focus
+6,Wed,12,B107,Comfortable,Fine today
+6,Wed,15,B107,Too cold,AC is blasting directly on the front rows
+6,Wed,15,B107,Too cold,
+6,Wed,15,B107,Too cold,
+6,Wed,15,B107,Too cold,Need a jacket in here
+6,Wed,17,B107,Comfortable,Fine today
+6,Wed,17,B107,Too cold,Too cold to focus
+6,Wed,17,B107,Comfortable,
+6,Wed,17,B107,Comfortable,
+6,Thu,8,B107,Comfortable,
+6,Thu,8,B107,Too cold,
+6,Thu,11,B107,Too cold,Too cold to focus
+6,Thu,17,B107,Too cold,
+6,Thu,17,B107,Too cold,AC is blasting directly on the front rows
+6,Thu,17,B107,Too cold,Too cold to focus
+6,Fri,10,B107,Too cold,
+6,Fri,12,B107,Too cold,AC is blasting directly on the front rows
+6,Fri,12,B107,Comfortable,
+6,Fri,12,B107,Comfortable,
+6,Fri,12,B107,Comfortable,
+6,Fri,13,B107,Comfortable,
+6,Fri,13,B107,Comfortable,
+6,Fri,13,B107,Too warm,Stuffy after 30 min
+6,Fri,14,B107,Comfortable,Fine today
+6,Fri,14,B107,Comfortable,
+6,Mon,8,B108,Too cold,AC is blasting directly on the front rows
+6,Mon,8,B108,Comfortable,
+6,Mon,9,B108,Too cold,Too cold to focus
+6,Mon,9,B108,Comfortable,
+6,Mon,9,B108,Too cold,Too cold to focus
+6,Mon,9,B108,Too warm,Stuffy after 30 min
+6,Mon,9,B108,Comfortable,
+6,Mon,9,B108,Too cold,Need a jacket in here
+6,Mon,10,B108,Too cold,Too cold to focus
+6,Mon,11,B108,Too cold,
+6,Mon,11,B108,Comfortable,Fine today
+6,Mon,13,B108,Comfortable,
+6,Mon,13,B108,Too cold,Need a jacket in here
+6,Mon,14,B108,Too warm,Stuffy after 30 min
+6,Mon,16,B108,Comfortable,Fine today
+6,Mon,16,B108,Comfortable,Fine today
+6,Mon,16,B108,Comfortable,Fine today
+6,Mon,16,B108,Too warm,
+6,Mon,16,B108,Too cold,
+6,Mon,17,B108,Comfortable,
+6,Mon,17,B108,Too cold,Need a jacket in here
+6,Tue,8,B108,Too cold,
+6,Tue,9,B108,Too cold,Need a jacket in here
+6,Tue,10,B108,Too cold,Need a jacket in here
+6,Tue,10,B108,Too cold,Need a jacket in here
+6,Tue,10,B108,Too cold,AC is blasting directly on the front rows
+6,Tue,10,B108,Comfortable,
+6,Tue,11,B108,Too cold,
+6,Tue,11,B108,Comfortable,
+6,Tue,12,B108,Too cold,
+6,Tue,13,B108,Too cold,Too cold to focus
+6,Tue,13,B108,Comfortable,
+6,Tue,13,B108,Too warm,
+6,Tue,15,B108,Comfortable,
+6,Tue,15,B108,Too cold,
+6,Tue,16,B108,Too cold,AC is blasting directly on the front rows
+6,Tue,16,B108,Too cold,
+6,Tue,17,B108,Too cold,AC is blasting directly on the front rows
+6,Wed,8,B108,Too cold,AC is blasting directly on the front rows
+6,Wed,8,B108,Too cold,
+6,Wed,8,B108,Comfortable,Fine today
+6,Wed,8,B108,Comfortable,
+6,Wed,8,B108,Too cold,
+6,Wed,8,B108,Too cold,Need a jacket in here
+6,Wed,9,B108,Comfortable,
+6,Wed,9,B108,Too cold,AC is blasting directly on the front rows
+6,Wed,10,B108,Comfortable,Fine today
+6,Wed,10,B108,Too cold,Need a jacket in here
+6,Wed,11,B108,Comfortable,
+6,Wed,11,B108,Comfortable,
+6,Wed,12,B108,Comfortable,Fine today
+6,Wed,12,B108,Too cold,AC is blasting directly on the front rows
+6,Wed,13,B108,Too cold,AC is blasting directly on the front rows
+6,Wed,15,B108,Comfortable,
+6,Wed,16,B108,Too cold,AC is blasting directly on the front rows
+6,Wed,16,B108,Too cold,
+6,Wed,16,B108,Too warm,Stuffy after 30 min
+6,Wed,17,B108,Too cold,Too cold to focus
+6,Wed,17,B108,Comfortable,Fine today
+6,Wed,17,B108,Too cold,AC is blasting directly on the front rows
+6,Thu,9,B108,Comfortable,
+6,Thu,9,B108,Too cold,
+6,Thu,9,B108,Too cold,AC is blasting directly on the front rows
+6,Thu,9,B108,Too cold,AC is blasting directly on the front rows
+6,Thu,9,B108,Too cold,
+6,Thu,9,B108,Comfortable,
+6,Thu,10,B108,Too cold,Need a jacket in here
+6,Thu,10,B108,Comfortable,Fine today
+6,Thu,10,B108,Comfortable,
+6,Thu,11,B108,Comfortable,
+6,Thu,11,B108,Comfortable,
+6,Thu,11,B108,Too cold,AC is blasting directly on the front rows
+6,Thu,12,B108,Too warm,Stuffy after 30 min
+6,Thu,12,B108,Too cold,
+6,Thu,12,B108,Too cold,AC is blasting directly on the front rows
+6,Thu,13,B108,Too cold,
+6,Thu,13,B108,Too cold,Need a jacket in here
+6,Thu,14,B108,Comfortable,
+6,Thu,14,B108,Too cold,Too cold to focus
+6,Thu,14,B108,Comfortable,
+6,Thu,14,B108,Comfortable,
+6,Thu,14,B108,Too cold,Too cold to focus
+6,Thu,15,B108,Too cold,Need a jacket in here
+6,Thu,16,B108,Comfortable,
+6,Thu,16,B108,Too cold,Need a jacket in here
+6,Thu,16,B108,Comfortable,Fine today
+6,Thu,16,B108,Comfortable,Fine today
+6,Thu,17,B108,Comfortable,
+6,Thu,17,B108,Too cold,AC is blasting directly on the front rows
+6,Fri,8,B108,Too cold,AC is blasting directly on the front rows
+6,Fri,8,B108,Too cold,Need a jacket in here
+6,Fri,8,B108,Comfortable,
+6,Fri,8,B108,Comfortable,Fine today
+6,Fri,8,B108,Too cold,
+6,Fri,9,B108,Too cold,AC is blasting directly on the front rows
+6,Fri,9,B108,Too cold,AC is blasting directly on the front rows
+6,Fri,9,B108,Too warm,Stuffy after 30 min
+6,Fri,9,B108,Comfortable,
+6,Fri,9,B108,Too cold,AC is blasting directly on the front rows
+6,Fri,11,B108,Comfortable,
+6,Fri,11,B108,Too cold,Need a jacket in here
+6,Fri,11,B108,Comfortable,
+6,Fri,12,B108,Comfortable,
+6,Fri,13,B108,Too cold,AC is blasting directly on the front rows
+6,Fri,13,B108,Too cold,AC is blasting directly on the front rows
+6,Fri,13,B108,Comfortable,
+6,Fri,13,B108,Too cold,Need a jacket in here
+6,Fri,13,B108,Too cold,Need a jacket in here
+6,Fri,14,B108,Too cold,Too cold to focus
+6,Fri,15,B108,Comfortable,
+6,Fri,16,B108,Too cold,Need a jacket in here
+6,Fri,16,B108,Comfortable,Fine today
+6,Fri,16,B108,Comfortable,
+6,Fri,16,B108,Too cold,AC is blasting directly on the front rows
+6,Fri,17,B108,Too warm,Stuffy after 30 min
+6,Fri,17,B108,Comfortable,Fine today
+6,Fri,17,B108,Too warm,Back of the room is warm
+6,Fri,17,B108,Comfortable,Fine today
+6,Mon,8,C101,Comfortable,
+6,Mon,11,C101,Too cold,AC is blasting directly on the front rows
+6,Mon,11,C101,Too cold,Need a jacket in here
+6,Mon,13,C101,Comfortable,
+6,Tue,15,C101,Comfortable,
+6,Tue,15,C101,Too warm,
+6,Wed,10,C101,Comfortable,
+6,Wed,11,C101,Comfortable,
+6,Wed,12,C101,Comfortable,
+6,Thu,8,C101,Too cold,Need a jacket in here
+6,Thu,17,C101,Too cold,Too cold to focus
+6,Fri,10,C101,Comfortable,Fine today
+6,Fri,17,C101,Too cold,Too cold to focus
+6,Mon,10,C102,Too cold,Need a jacket in here
+6,Mon,14,C102,Too cold,AC is blasting directly on the front rows
+6,Mon,14,C102,Too cold,Need a jacket in here
+6,Wed,9,C102,Comfortable,Fine today
+6,Wed,9,C102,Comfortable,
+6,Wed,11,C102,Too cold,Need a jacket in here
+6,Wed,11,C102,Too cold,Need a jacket in here
+6,Wed,15,C102,Too cold,
+6,Wed,15,C102,Comfortable,Fine today
+6,Thu,8,C102,Comfortable,
+6,Thu,12,C102,Too cold,AC is blasting directly on the front rows
+6,Thu,12,C102,Too cold,Too cold to focus
+6,Thu,12,C102,Too cold,
+6,Thu,14,C102,Too cold,
+6,Thu,14,C102,Comfortable,Fine today
+6,Thu,15,C102,Too cold,AC is blasting directly on the front rows
+6,Thu,15,C102,Too warm,Back of the room is warm
+6,Thu,17,C102,Comfortable,Fine today
+6,Fri,10,C102,Too cold,AC is blasting directly on the front rows
+6,Fri,11,C102,Comfortable,
+6,Fri,12,C102,Too cold,AC is blasting directly on the front rows
+6,Fri,12,C102,Too cold,Need a jacket in here
+6,Fri,16,C102,Comfortable,
+6,Mon,11,C103,Too warm,
+6,Mon,11,C103,Comfortable,
+6,Mon,11,C103,Too warm,Back of the room is warm
+6,Mon,13,C103,Comfortable,
+6,Mon,13,C103,Too cold,Need a jacket in here
+6,Mon,14,C103,Comfortable,
+6,Tue,10,C103,Too cold,Too cold to focus
+6,Tue,10,C103,Too warm,Stuffy after 30 min
+6,Tue,13,C103,Too warm,Stuffy after 30 min
+6,Wed,13,C103,Too warm,Stuffy after 30 min
+6,Wed,13,C103,Comfortable,
+6,Thu,11,C103,Comfortable,
+6,Thu,11,C103,Comfortable,
+6,Thu,15,C103,Comfortable,Fine today
+6,Thu,15,C103,Too cold,Too cold to focus
+6,Fri,10,C103,Too warm,
+6,Fri,16,C103,Comfortable,Fine today
+6,Fri,17,C103,Too warm,
+6,Mon,10,C104,Too cold,
+6,Mon,15,C104,Too cold,Need a jacket in here
+6,Mon,15,C104,Too cold,
+6,Mon,17,C104,Too cold,
+6,Mon,17,C104,Too cold,
+6,Mon,17,C104,Comfortable,Fine today
+6,Tue,16,C104,Too cold,
+6,Wed,8,C104,Comfortable,
+6,Wed,14,C104,Comfortable,
+6,Wed,15,C104,Comfortable,
+6,Wed,15,C104,Too cold,Need a jacket in here
+6,Wed,15,C104,Comfortable,Fine today
+6,Wed,15,C104,Comfortable,Fine today
+6,Wed,15,C104,Too cold,Need a jacket in here
+6,Thu,8,C104,Comfortable,
+6,Thu,10,C104,Too cold,Too cold to focus
+6,Thu,10,C104,Too cold,AC is blasting directly on the front rows
+6,Thu,13,C104,Comfortable,Fine today
+6,Thu,15,C104,Comfortable,
+6,Fri,14,C104,Comfortable,
+6,Fri,14,C104,Comfortable,
+6,Fri,15,C104,Comfortable,
+6,Fri,15,C104,Too cold,Need a jacket in here
+6,Mon,11,C105,Comfortable,
+6,Mon,11,C105,Comfortable,
+6,Mon,12,C105,Too warm,Back of the room is warm
+6,Mon,12,C105,Comfortable,
+6,Mon,12,C105,Too cold,
+6,Mon,12,C105,Too warm,
+6,Mon,12,C105,Comfortable,Fine today
+6,Mon,13,C105,Comfortable,Fine today
+6,Mon,13,C105,Too warm,
+6,Mon,15,C105,Too warm,Back of the room is warm
+6,Mon,15,C105,Comfortable,
+6,Tue,9,C105,Comfortable,
+6,Tue,9,C105,Comfortable,
+6,Tue,11,C105,Comfortable,
+6,Tue,15,C105,Comfortable,
+6,Tue,15,C105,Comfortable,
+6,Wed,8,C105,Too warm,Back of the room is warm
+6,Wed,8,C105,Comfortable,Fine today
+6,Wed,10,C105,Comfortable,
+6,Wed,13,C105,Comfortable,Fine today
+6,Wed,13,C105,Too cold,Need a jacket in here
+6,Wed,13,C105,Comfortable,
+6,Wed,16,C105,Comfortable,
+6,Thu,14,C105,Too cold,Too cold to focus
+6,Thu,14,C105,Comfortable,
+6,Thu,14,C105,Too warm,
+6,Thu,16,C105,Too cold,Need a jacket in here
+6,Fri,11,C105,Too warm,Stuffy after 30 min
+6,Fri,12,C105,Comfortable,Fine today
+6,Fri,12,C105,Comfortable,Fine today
+6,Fri,17,C105,Too warm,Stuffy after 30 min
+6,Fri,17,C105,Too warm,Back of the room is warm
+6,Mon,10,C106,Too cold,
+6,Mon,10,C106,Too cold,Need a jacket in here
+6,Mon,13,C106,Too cold,Too cold to focus
+6,Mon,13,C106,Too cold,Too cold to focus
+6,Mon,13,C106,Too cold,
+6,Tue,12,C106,Comfortable,
+6,Tue,14,C106,Too cold,
+6,Tue,14,C106,Comfortable,
+6,Tue,14,C106,Comfortable,Fine today
+6,Tue,14,C106,Too cold,Need a jacket in here
+6,Tue,14,C106,Comfortable,
+6,Wed,8,C106,Comfortable,
+6,Thu,14,C106,Too cold,Too cold to focus
+6,Thu,17,C106,Comfortable,Fine today
+6,Thu,17,C106,Comfortable,
+6,Thu,17,C106,Too cold,
+6,Fri,17,C106,Too cold,Too cold to focus
+6,Mon,13,C107,Comfortable,Fine today
+6,Mon,14,C107,Too warm,Back of the room is warm
+6,Mon,16,C107,Too warm,Stuffy after 30 min
+6,Mon,16,C107,Comfortable,
+6,Mon,16,C107,Too warm,Stuffy after 30 min
+6,Mon,16,C107,Comfortable,Fine today
+6,Mon,17,C107,Too warm,Back of the room is warm
+6,Mon,17,C107,Comfortable,
+6,Tue,10,C107,Too warm,Back of the room is warm
+6,Tue,10,C107,Too warm,
+6,Tue,10,C107,Comfortable,
+6,Tue,12,C107,Too warm,Stuffy after 30 min
+6,Tue,12,C107,Too warm,Stuffy after 30 min
+6,Tue,12,C107,Too warm,Stuffy after 30 min
+6,Tue,14,C107,Too warm,
+6,Tue,15,C107,Too warm,
+6,Tue,15,C107,Too warm,
+6,Tue,16,C107,Comfortable,
+6,Tue,16,C107,Too warm,Back of the room is warm
+6,Tue,16,C107,Comfortable,
+6,Tue,16,C107,Too cold,Too cold to focus
+6,Wed,11,C107,Too warm,Back of the room is warm
+6,Wed,11,C107,Too warm,Back of the room is warm
+6,Wed,11,C107,Comfortable,
+6,Wed,11,C107,Too warm,Back of the room is warm
+6,Wed,11,C107,Too warm,
+6,Wed,16,C107,Too warm,Back of the room is warm
+6,Wed,16,C107,Comfortable,
+6,Wed,16,C107,Comfortable,Fine today
+6,Wed,16,C107,Comfortable,
+6,Wed,17,C107,Too cold,Need a jacket in here
+6,Thu,15,C107,Comfortable,
+6,Thu,15,C107,Comfortable,
+6,Thu,15,C107,Too warm,Stuffy after 30 min
+6,Thu,17,C107,Too warm,Stuffy after 30 min
+6,Fri,9,C107,Too cold,
+6,Fri,9,C107,Comfortable,
+6,Fri,14,C107,Comfortable,Fine today
+6,Mon,8,C108,Comfortable,
+6,Mon,8,C108,Too warm,Stuffy after 30 min
+6,Mon,8,C108,Comfortable,Fine today
+6,Mon,9,C108,Comfortable,Fine today
+6,Mon,9,C108,Comfortable,
+6,Mon,10,C108,Comfortable,
+6,Mon,12,C108,Comfortable,
+6,Mon,13,C108,Comfortable,
+6,Mon,14,C108,Comfortable,
+6,Mon,14,C108,Too warm,Back of the room is warm
+6,Mon,16,C108,Comfortable,Fine today
+6,Mon,16,C108,Too warm,
+6,Mon,16,C108,Comfortable,
+6,Mon,16,C108,Comfortable,Fine today
+6,Mon,16,C108,Too warm,
+6,Mon,16,C108,Comfortable,
+6,Mon,17,C108,Comfortable,
+6,Tue,8,C108,Too cold,AC is blasting directly on the front rows
+6,Tue,8,C108,Too cold,
+6,Tue,8,C108,Comfortable,Fine today
+6,Tue,8,C108,Comfortable,Fine today
+6,Tue,8,C108,Too warm,
+6,Tue,8,C108,Comfortable,Fine today
+6,Tue,8,C108,Comfortable,
+6,Tue,9,C108,Too warm,Back of the room is warm
+6,Tue,9,C108,Too cold,AC is blasting directly on the front rows
+6,Tue,9,C108,Comfortable,
+6,Tue,10,C108,Too warm,Stuffy after 30 min
+6,Tue,10,C108,Comfortable,Fine today
+6,Tue,10,C108,Comfortable,Fine today
+6,Tue,10,C108,Comfortable,Fine today
+6,Tue,11,C108,Too warm,Back of the room is warm
+6,Tue,11,C108,Comfortable,
+6,Tue,11,C108,Comfortable,Fine today
+6,Tue,11,C108,Comfortable,
+6,Tue,11,C108,Comfortable,
+6,Tue,11,C108,Comfortable,
+6,Tue,12,C108,Comfortable,
+6,Tue,12,C108,Too cold,
+6,Tue,12,C108,Comfortable,Fine today
+6,Tue,13,C108,Comfortable,
+6,Tue,13,C108,Comfortable,
+6,Tue,13,C108,Comfortable,Fine today
+6,Tue,13,C108,Too warm,Stuffy after 30 min
+6,Tue,13,C108,Too cold,AC is blasting directly on the front rows
+6,Tue,14,C108,Comfortable,
+6,Tue,14,C108,Too warm,Back of the room is warm
+6,Tue,14,C108,Comfortable,Fine today
+6,Tue,15,C108,Comfortable,
+6,Tue,15,C108,Comfortable,Fine today
+6,Tue,15,C108,Too warm,
+6,Tue,15,C108,Too cold,
+6,Tue,15,C108,Comfortable,
+6,Tue,15,C108,Too cold,Need a jacket in here
+6,Tue,15,C108,Comfortable,
+6,Tue,15,C108,Too cold,Too cold to focus
+6,Tue,15,C108,Comfortable,
+6,Tue,15,C108,Comfortable,
+6,Tue,15,C108,Too warm,Stuffy after 30 min
+6,Tue,15,C108,Too cold,AC is blasting directly on the front rows
+6,Tue,16,C108,Comfortable,
+6,Tue,17,C108,Comfortable,
+6,Wed,9,C108,Comfortable,Fine today
+6,Wed,10,C108,Comfortable,Fine today
+6,Wed,10,C108,Comfortable,
+6,Wed,10,C108,Too cold,Too cold to focus
+6,Wed,10,C108,Comfortable,
+6,Wed,10,C108,Comfortable,
+6,Wed,10,C108,Too warm,Stuffy after 30 min
+6,Wed,11,C108,Too warm,Stuffy after 30 min
+6,Wed,11,C108,Too warm,Stuffy after 30 min
+6,Wed,13,C108,Too cold,Need a jacket in here
+6,Wed,13,C108,Comfortable,
+6,Wed,13,C108,Too cold,AC is blasting directly on the front rows
+6,Wed,13,C108,Too warm,Back of the room is warm
+6,Wed,13,C108,Comfortable,Fine today
+6,Wed,13,C108,Comfortable,Fine today
+6,Wed,13,C108,Too warm,Back of the room is warm
+6,Wed,14,C108,Too warm,
+6,Wed,14,C108,Too cold,Too cold to focus
+6,Wed,17,C108,Comfortable,
+6,Wed,17,C108,Comfortable,
+6,Thu,8,C108,Comfortable,
+6,Thu,8,C108,Comfortable,Fine today
+6,Thu,8,C108,Comfortable,Fine today
+6,Thu,8,C108,Comfortable,
+6,Thu,9,C108,Comfortable,
+6,Thu,10,C108,Too cold,Too cold to focus
+6,Thu,12,C108,Too warm,Stuffy after 30 min
+6,Thu,13,C108,Too warm,
+6,Thu,13,C108,Comfortable,Fine today
+6,Thu,13,C108,Comfortable,
+6,Thu,15,C108,Comfortable,
+6,Thu,16,C108,Comfortable,Fine today
+6,Thu,16,C108,Comfortable,Fine today
+6,Thu,17,C108,Comfortable,
+6,Fri,8,C108,Too cold,
+6,Fri,8,C108,Too warm,Back of the room is warm
+6,Fri,11,C108,Comfortable,
+6,Fri,11,C108,Too warm,
+6,Fri,13,C108,Comfortable,
+6,Fri,14,C108,Too warm,Stuffy after 30 min
+6,Fri,14,C108,Comfortable,Fine today
+6,Fri,15,C108,Comfortable,
+6,Fri,15,C108,Too cold,Need a jacket in here
+6,Fri,15,C108,Comfortable,Fine today
+6,Fri,15,C108,Too warm,Back of the room is warm
+6,Fri,15,C108,Too cold,Need a jacket in here
+6,Fri,15,C108,Too cold,Need a jacket in here
+6,Fri,17,C108,Too warm,
+6,Fri,17,C108,Too cold,
+6,Fri,17,C108,Too warm,Back of the room is warm
